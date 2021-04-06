@@ -14,13 +14,6 @@ body{
     margin: 0 auto;
 }
 
-/* iconos */
-.col-4 i{
-    height: 40px;
-    color: #ffffff;
-    font-size: 30px;
-}
-
 .icono{
     text-align: center;
 }
